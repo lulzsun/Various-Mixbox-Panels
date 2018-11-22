@@ -1,10 +1,11 @@
 # Mayflash F500 Mixbox Panel
 Vector files for a DIY mixbox arcade controller mod for Mayflash F500
 
-ponoko_f500_mixbox_v1.svg - has rounded key edges
-ponoko_f500_mixbox_v2.svg - has sharp key edges
+There are two different versions:
+* ponoko_f500_mixbox_v1.svg - has rounded key edges
+* ponoko_f500_mixbox_v2.svg - has sharp key edges
 
-These files are ready to be uploaded to Ponoko to be laser cut. 
+These files are ready to be uploaded to [Ponoko](https://www.ponoko.com) to be laser cut. 
 Here is the configuration for ordering:
 
 * Acrylic - Clear 
