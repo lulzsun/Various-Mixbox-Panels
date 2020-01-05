@@ -5,16 +5,15 @@ There are two different versions:
 * ponoko_f500_mixbox_v1.svg - has rounded key edges
 * ponoko_f500_mixbox_v2.svg - has sharp key edges
 
-These files are ready to be uploaded to [Ponoko](https://www.ponoko.com) to be laser cut. 
+These files are ready to be uploaded to [Ponoko](https://make.ponoko.com) to be laser cut. 
 Here is the configuration for ordering:
 
 * Acrylic - Clear 
-* 0.080 inches (2mm)
-* P2 - 15.100 inches long x 15.100 inches wide 
+* 2mm (0.080 inches)
 
 You will also need new mounting screws:
 * M3 x 12mm - Socket or Phillips head 
-> (If you are using 0.118 thickness, I used M3 x 14mm instead)
+> (If you are using 0.118 thickness, M3 x 14mm should work better)
 
 # Notes
 I recommend you to use 2mm (0.080 inches) plexi thickness because 3mm (0.118 inches) bulges out of the top a little bit.
