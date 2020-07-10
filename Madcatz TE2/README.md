@@ -7,7 +7,7 @@ There are two files:
 * mixbox_te2_metal_panel.dxf - required, the metal control panel that holds the switches and buttons
 * mixbox_te2_plexi_panel.dxf - optional but recommended, clear panel to slide artwork under
 
-Do note that the holes on the must be chamfered so that screws sit flushed with the metal control panel. The file provided *will not be chamfered* and you are required to do this with some tools (hand drill or drill press).
+Do note that the holes on the panel must be chamfered so that screws sit flushed with the metal control panel. The file provided *will not be chamfered* and you are required to do this with some tools (hand drill or drill press).
 The steps below are what I recommend you do if you are ordering all these parts online:
 
 Order the metal panel from [Laserboost](https://www.laserboost.com/) with the following configurations:
